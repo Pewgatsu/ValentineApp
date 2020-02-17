@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.valentineapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen"
+            android:theme="@style/SplashScreen">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuPage"></activity>
+        <activity android:name=".AboutPage"></activity>
+        <activity android:name=".MessagePage"></activity>
+        <activity android:name=".MemoriesPage"></activity>
+        <activity android:name=".MemoriesContent"></activity>
+        <activity android:name=".MainActivity"
+            android:theme="@style/MainActivity"></activity>
+        <service android:enabled="true" android:name=".BackgroundSoundService" />
+    </application>
+
+</manifest>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="frontpage_title">PASSCODE</string>
+    <string name="app_name">ValentinesApp</string>
+    <string name="login_button">LOGIN</string>
+
+
+    <string name="memories_button">MEMORIES</string>
+    <string name="about_button">ABOUT</string>
+    <string name="message_button">MESSAGE</string>
+
+    <string name="about_student">Student ID: 201811720</string>
+    <string name="about_name">Name: James Rejieffer E. De Leon</string>
+    <string name="about_course">Course: BSSCSE - N21</string>
+
+    <string name="skill_1">MTA Certified</string>
+    <string name="skill_2">Willingness to Learn</string>
+    <string name="skill_3">Active Listener</string>
+    <string name="skill_4">Problem-Solving</string>
+    <string name="skill_5">Design Thinker</string>
+    <string name="skill_6">Adaptability</string>
+
+
+
+
+    <string name="desc1">A movie entitled 5 Centimeters per second. The movie tells of a love that\'s slowly torn apart because the lovers move further away, both in heart and home.
+         It\'s underlying themes are beautifully incorporated into the story; about growing up, letting go of an unreachable past, and taking control of one\'s own life.</string>
+    <string name="desc2">Garden of Words. I love everything about this movie, especially the art and the soundtrack which is absolutely breathtaking.The art and the plot fits
+         perfectly together and how the story portrayed Rain as a key factor to connect everything, the protagonists\' relationship with each other and everything else.</string>
+    <string name="desc3">This is a popular video game called Dota 2. This game played a huge role in my life because at some point in my life, this game became a tool for me to escape
+        reality. I met a lot of awesome people through this game and I will be forever thankful to this game even though I love and hate this game at the same time.</string>
+    <string name="desc4">HunterXHunter is one of my favorite anime series.The Chimera Ant Arc will always be my favorite arc because of the character
+        development, because of how it portrayed Gon, the protagonist, slowly become a monster and Meruem, the Chimera Ant King, slowly become a human because of a Komugi.</string>
+    <string name="desc5">Red Velvet, one of my favorite K-POP groups, I love how they show their talent and passion through music.</string>
+    <string name="desc6">Twice, the first K-POP group that I listened to, Twice is the main reason why I am a K-POP fan now.</string>
+    <string name="desc7">Rammee the Roamer, our pet hedgehog, I called him the Roamer because this cute little fellow will always escape his home and roam around our bedroom and
+        come back a few hours or days later.</string>
+    <string name="desc8">Our youngest dog, Sushi, this fat hotdog-shaped dog never fails to amuse me because whenever given a chance, he will eat his poop. </string>
+    <string name="desc9">Our second dog, Elle, this dog will never hurt you as long as you have food for her. She will always steal food in our table which results
+        of her being scolded by my mother.</string>
+    <string name="desc10">Our eldest dog, Yukki, this dog will be the gentlest dog and at the same time the fiercest among the three. He doesn\'t like people aside from us and will
+        always bark at our visitors that is why he needs a muzzle to prevent him from biting our visitors.</string>
+
+
+</resources>
